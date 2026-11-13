@@ -123,5 +123,9 @@ python test_codec.py
 
 ## 7. Preguntas Teóricas del Laboratorio
 
-Las respuestas completas, detalladas y fundamentadas técnica y matemáticamente a todas las preguntas de la guía (Secciones 3.1, 3.3 y 3.4) se encuentran documentadas en:
-👉 [**`RESPUESTAS.md`**](RESPUESTAS.md)
+ [**`RESPUESTAS.md`**](RESPUESTAS.md)
+
+## 8. Presentación de entrega
+
+[**`PRESENTACION_PARTE_2.pdf`**](PRESENTACION_PARTE_2.pdf)
+
