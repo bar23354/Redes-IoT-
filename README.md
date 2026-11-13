@@ -123,9 +123,13 @@ python test_codec.py
 
 ## 7. Preguntas Teóricas del Laboratorio
 
- [**`RESPUESTAS.md`**](RESPUESTAS.md)
+Las respuestas completas, detalladas y fundamentadas técnica y matemáticamente a todas las preguntas de la guía (Secciones 3.1, 3.3 y 3.4) se encuentran documentadas en:
+👉 [**`RESPUESTAS.md`**](RESPUESTAS.md)
 
-## 8. Presentación de entrega
+---
 
-[**`PRESENTACION_PARTE_2.pdf`**](PRESENTACION_PARTE_2.pdf)
+## 8. Presentación de Entrega (Parte II)
+
+Para la entrega de la **Parte II** (láminas de presentación en formato PDF con la evidencia de las fases, explicaciones, capturas de pantalla y respuestas teóricas):
+👉 [**`PRESENTACION_PARTE_2.pdf`**](PRESENTACION_PARTE_2.pdf) (también disponible como [**`Implementacion IoT.pdf`**](Implementacion%20IoT.pdf))
 
